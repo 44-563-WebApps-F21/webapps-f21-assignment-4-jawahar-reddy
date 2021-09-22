@@ -35,3 +35,23 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: cornflowerblue;
 }
+
+table, td, th {  
+    border: 1px solid black;
+    text-align: left;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: auto;
+  }
+  
+  th, td {
+    padding: 15px;
+    
+  }
+
+  tr:hover{
+      background-color: chocolate;
+  }
