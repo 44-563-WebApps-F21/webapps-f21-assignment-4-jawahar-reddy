@@ -16,9 +16,10 @@
 }
 .name:hover{
     text-shadow: 0 0 4px cadetblue;
+    border-style:double;
     filter: blur(1px);
     -webkit-filter: blur(1px);
-    border-style:double;
+    
 }
 .stage-direction{
     font-family:sans-serif;
